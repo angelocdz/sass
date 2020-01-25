@@ -8,3 +8,5 @@ npm start
 git remote add origin git@github.com:angelocabanerodedicatoria93/sass.git
 git push -u origin master
 ```
+
+node-sass must be in dependencies
